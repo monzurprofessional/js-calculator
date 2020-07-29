@@ -1,0 +1,41 @@
+input{
+    padding: 30px;
+    width: 100px;
+    margin: 2px;
+    background-color: black;
+    border: 1px solid red;
+    color: white;
+    font-size: 30px;
+    border-radius: 40px;
+}
+.equl{
+   padding: 30px 102px;
+}
+.screen{
+    width: 425px;
+    height: 120px;
+    text-align: center;  
+    margin: auto; 
+    position: relative;
+    left: 40px; 
+    margin-bottom: 5px;
+    border: 1px solid yellow;
+    
+}
+.calculator{
+    width: 500px;
+    border: 1px solid purple;
+   padding: 20px 0px;
+   border-radius: 40px;
+   background-color: white;
+   position: relative;
+   top: 50px;
+}
+.keypad{
+    width: 500px;
+    text-align: center;
+
+}
+body{
+    background-color: gray;
+}
